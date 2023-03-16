@@ -3,7 +3,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=douglasdba&label=Profile%20views&color=0e75b6&style=flat" alt="douglasdba" /> </p>
 
-- 🌱Atualmente estou aprendendo **Python, SQL , Power BI**
+- 🌱Atualmente estou aprendendo **Python, SQL , Power BI e cursando graduação em Database (PUCRS)**
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
